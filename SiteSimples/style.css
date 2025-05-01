@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&family=Roboto:wght@100;300;700&display=swap');
+
+body {
+    background-color: black;
+    color: white; /* Isso deixa o texto visível no fundo escuro */
+  }
